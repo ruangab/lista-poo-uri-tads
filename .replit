@@ -1,0 +1,2 @@
+language = "csharp"
+run = "mcs -out:main.exe 'prova/q5.cs'; mono main.exe"
